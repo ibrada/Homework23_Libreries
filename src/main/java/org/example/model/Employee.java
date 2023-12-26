@@ -59,9 +59,4 @@ public class Employee {
                 ", lastName='" + lastName + '\'' +
                 '}';
     }
-
-//    public static String upFirstLetter(String word) {
-//        return StringUtils.capitalize(word.toLowerCase());
-//    }
-
 }
